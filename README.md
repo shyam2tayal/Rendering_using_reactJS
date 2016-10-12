@@ -13,13 +13,17 @@ Installation:
 
 simply go to folder and run :
 npm Install
+
 =================================================================
+
 server is defined at port 3333
+
 ======================================================================
 App Run:
 
 npm start
 
 Then simply go to browser at port 3333 to see the working of App.
+
 ==================================================================
 Happy Coding !!
